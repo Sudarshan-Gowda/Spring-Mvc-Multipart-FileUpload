@@ -24,8 +24,7 @@
 
 	<bean id="starSystemProperties" class="com.star.sud.StarSystemProperties">
 
-		<property name="commonPath"
-			value="E:/sudarshan-projects/2017/spring-thymeleaf/spring-mvc-thymeleaf-file-upload/"></property>
+		<property name="commonPath" value="C:/spring-mvc-thyme/"></property>
 		<property name="fileUpload" value="upload/"></property>
 
 	</bean>
